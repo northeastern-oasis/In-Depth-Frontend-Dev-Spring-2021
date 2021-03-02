@@ -2,7 +2,7 @@
 
 **Workshop External Resources**
 
-  *  Slides: []()
+  *  Slides: [https://docs.google.com/presentation/d/1Zhy-LA6FA0xfBiDfWBL5_WdiV4IBjDHK3vfBU67cKTA/edit?usp=sharing](https://docs.google.com/presentation/d/1Zhy-LA6FA0xfBiDfWBL5_WdiV4IBjDHK3vfBU67cKTA/edit?usp=sharing)
   * Kahoot: [https://create.kahoot.it/share/oasis-spring-2021-workshop-5-in-depth-frontend-development/0c7f75dc-1045-4f75-a895-6181af78a665](https://create.kahoot.it/share/oasis-spring-2021-workshop-5-in-depth-frontend-development/0c7f75dc-1045-4f75-a895-6181af78a665)
   * Oasis Starting Guide: [https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev)
 
