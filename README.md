@@ -1,10 +1,9 @@
-# Workshop 6: In-Depth Frontend Development
+# Oasis Spring Workshop 5: In-Depth Frontend Development
 
 **Workshop External Resources**
 
-  *  Youtube Recording: [https://youtu.be/QF_H7ods2Mw](https://youtu.be/QF_H7ods2Mw)
-  *  Slides: [https://docs.google.com/presentation/d/1JQRA5FJ1ghw-0EAWJFI9J-2rPbjPzW4wbrR3hClhpYk](https://docs.google.com/presentation/d/1JQRA5FJ1ghw-0EAWJFI9J-2rPbjPzW4wbrR3hClhpYk)
-  * Kahoot: [https://create.kahoot.it/share/oasis-workshop-6-in-depth-frontend-development/baecaff3-2569-4bff-aa08-6862a6b9a443](https://create.kahoot.it/share/oasis-workshop-6-in-depth-frontend-development/baecaff3-2569-4bff-aa08-6862a6b9a443)
+  *  Slides: []()
+  * Kahoot: [https://create.kahoot.it/share/oasis-spring-2021-workshop-5-in-depth-frontend-development/0c7f75dc-1045-4f75-a895-6181af78a665](https://create.kahoot.it/share/oasis-spring-2021-workshop-5-in-depth-frontend-development/0c7f75dc-1045-4f75-a895-6181af78a665)
   * Oasis Starting Guide: [https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev)
 
 Congratulations on continuing your React journey! Becoming proficient with it will take practice and persistence, but what we will cover today are some more of the foundational concepts you will need to build powerful applications.
@@ -13,20 +12,13 @@ The interactive portion of this workshop will focus on completing a basic app th
 
 ## Getting Started
 
-### Method 1 (RECOMMENDED)
-
 1. Open the following Stackblitz link: [https://stackblitz.com/edit/oasis-workshop-6-in-depth-frontend](https://stackblitz.com/edit/oasis-workshop-6-in-depth-frontend)
 2. Click **Fork** at top of window
 3. (optional, but recommended) Sign in using Github to save your code (make an account [here](https://github.com/join) if you don't have one)
 4. Follow along with workshop
 5. Note: Make sure you **save often**!! Stackblitz has occasionally blanked out in the past. As long as you keep saving though, you'll be able to just refresh and pick up where you left off
 
-### Method 2 (ONLY IF YOU KNOW WHAT YOU'RE DOING)
-
-1. Clone the Workshop 6 Github repository into a new folder on your machine (in Terminal or Command Prompt, type `git clone REPO_URL`, where REPO_URL is the clone repository found on the top of this page). This repo does contain quite a bit of stuff, but we'll explain what everything does.
-2. Open the parent **folder** using your favorite [IDE](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/IDEs). This is important because we will be editing multiple files to build our app.
-3. From the same terminal window you used to clone, type `npm install`. This will install the packages you'll need (defined in `package.json`), including React and Axios.
-4. You're all set! Just have the cloned folder easily accessible and follow along with the workshop to start writing React code
+**Also feel free to clone this repository and work in your own IDE if you know what you're doing**
 
 
 ## During the workshop
